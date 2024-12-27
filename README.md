@@ -1,10 +1,10 @@
 # Welcome to My GitHub Space! 🌟
 
-Hi, I’m **Navya PS** – a data scientist and software developer dedicated to turning data into actionable insights and tackling complex challenges with innovative solutions.
+Hi, I’m **Navya P S** – a data scientist and software developer dedicated to turning data into actionable insights and tackling complex challenges with innovative solutions.
 
 ## 🚀 What I Do
 
-I specialize in **machine learning** and **data science**, with a focus on leveraging advanced techniques to solve real-world problems. My work involves developing systems that enhance understanding and predictions based on complex data structures and optimizing real-time data processing.
+I specialize in **machine learning** and **Artificial Intelligence**, with a focus on leveraging advanced techniques to solve real-world problems. My work involves developing systems that enhance understanding and predictions based on complex data structures and optimizing real-time data processing.
 
 ### 🔍 My Current Adventures
 
@@ -23,7 +23,7 @@ If you have an interesting idea or project, let’s connect!
 ### 📬 Let’s Connect
 
 - **Email**: [navyaraman248@gamil.com](mailto:navyaraman248@gamil.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/navya-ps)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/navya-28mb24/)
 
 ### 🌟 Fun Fact
 
