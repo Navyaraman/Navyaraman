@@ -14,9 +14,9 @@ I specialize in **Machine learning** and **Artificial Intelligence**, with a foc
 
 I’m excited to collaborate with like-minded individuals who:
 
--Share a passion for cutting-edge technologies and data-driven insights.
--Are driven by curiosity and creativity in solving real-world problems.
--Value continuous learning and innovation in tech.
+- Share a passion for cutting-edge technologies and data-driven insights.
+- Are driven by curiosity and creativity in solving real-world problems.
+- Value continuous learning and innovation in tech.
 
 If you have an interesting idea or project, let’s connect!
 
